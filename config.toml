@@ -18,11 +18,11 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = ""
   facebook = ""
   twitter = ""
-  instagram = ""
-  youtube = ""
+  instagram = "https://www.instagram.com/advanture.norway/"
+  youtube = "https://www.youtube.com/channel/UCRglk9sqGxMk9SdT4GEC_TQ"
   github = ""
   gitlab = ""
   linkedin = ""
