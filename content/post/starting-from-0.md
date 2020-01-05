@@ -38,6 +38,17 @@ It's not a lot, which means I have to be very clever with space if I wish to fit
 
 In total there are about 5 square metres. I used to live in a 7 square metre room and managed to fit a double bed, a dismantled single bed(under the double bed), a desk, desk chair, large wardrobe, and my bike. A childhood of tetris pays dividends.
 
+# Fuel economy
+
+
+| Fuel consumption | l/US MPG/UK MPG                                                 |
+|------------------|-----------------------------------------------------------------|
+| urban            | 9.4-8.2 l/100 km / 25.02 - 28.68 US mpg / 30.05 - 34.45 UK mpg  |
+| extra urban      | 7.6-7.2 l/100 km / 30.95 - 32.67 US mpg / 37.17 - 39.23 UK mpg  |
+| combined         | 8.0-7.8 l/100 km / 29.4 - 30.16 US mpg / 35.31 - 36.22 UK mpg   |
+
+It's not bad at all. But did you know that US mpg is completely different from UK mpg? Thought I was going insane.
+
 In the next post I will outline more detailed research and prices about the bed and insulation.
 
 I have started a youtube channel https://www.youtube.com/channel/UCRglk9sqGxMk9SdT4GEC_TQ
