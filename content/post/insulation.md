@@ -14,3 +14,6 @@ The idea is to put the rock wool between the wood and the van's walls. I will no
 
 For the floor I already have a plastic/rubber mat, and on top of that I will put a carpet from Ikea. I think it will be enough.
 
+In the following video I insulate the bottom half of both side panels by putting the rock wool directly behind the default plastic panels, is this OK to do?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T8TJS9fbbyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
