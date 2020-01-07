@@ -15,7 +15,7 @@ There are a few must-haves for the bed:
 - High enough to have basic storage under it
 - Foam mattress
 
-I found the perfect contender at Ikea.
+I found a good contender at Ikea.
 
 
 ![](/images/bed.jpg "bed")
