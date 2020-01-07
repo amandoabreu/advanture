@@ -14,7 +14,7 @@
       <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
     {{ end }}
 
-    <meta property="og:image" content="{{ .Params.featured_image }}" /> 
+    <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.featured_image }}" /> 
 
     {{ $stylesheet := .Site.Data.webpack_assets.app }}
     {{ with $stylesheet.css }}
