@@ -1,5 +1,5 @@
 ---
-title: Upgraded to modular sloide-out double bed!
+title: Upgraded to modular slide-out double bed!
 date: 2020-05-08T19:23:10.823Z
 description: diy van double bed slide out
 featured_image: /img/97009223_10220401570060735_4454723810075082752_n.jpeg
