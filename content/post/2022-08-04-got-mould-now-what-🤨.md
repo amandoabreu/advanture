@@ -1,7 +1,7 @@
 ---
 title: Got mould. Now what? 🤨
 date: 2020-10-14T20:08:35.518Z
-description: mould diy campervan mold fix mold
+description: fixing mould on a diy campervan
 featured_image: /img/20210625_171936.jpg
 ---
 Haven't said much since the accident post. tl;dr; I was living & working at a mountain restaurant in Jotunheimen.\
