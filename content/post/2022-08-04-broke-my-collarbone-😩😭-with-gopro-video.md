@@ -1,7 +1,7 @@
 ---
 title: Broke my collarbone 😩😭 (with gopro video!)
 date: 2020-08-01T20:02:15.208Z
-description: collarbone broken mtb
+description: "broken collarbone mountainbiking during #vanlife"
 featured_image: /img/116584200_192913912180192_8561096512561185066_n.jpeg
 ---
 I was (casually) riding my bike in hafjell bikepark when I went over the bars and broke my collarbone. Might need a real bed to recover from this one, will update when I know 😭
