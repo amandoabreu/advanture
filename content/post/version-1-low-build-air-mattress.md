@@ -3,7 +3,7 @@ date: 2022-01-04T10:58:08-04:00
 description: ""
 featured_image: "images/bed.jpg"
 tags: 
-title: "Optimized the space between the table/shelf and the backdoor 😌"
+title: "Version 1: Low-build; Air mattress."
 ---
 
 <!--more-->
